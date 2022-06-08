@@ -11,9 +11,43 @@
     "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
   },
  "visitante": {
+    "nome": "Argentina",
+    "forca": 5,
+    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ar.webp"
+    }
+  }
+  {
+    "descricao": "Eliminatórias da Copa 2022",
+    "local": {
+    "nome": "Estádio Centenário",
+    "imagem": "TODO"
+  },
+  "mandante": {
     "nome": "Uruguai",
     "forca": 4,
     "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp"
+  },
+ "visitante": {
+    "nome": "Brasil",
+    "forca": 5,
+    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
+    }
+  }
+ {
+    "descricao": "Eliminatórias da Copa 2022",
+    "local": {
+    "nome": "Neo Quimica Arena",
+    "imagem": "TODO"
+  },
+  "mandante": {
+    "nome": "Brasil",
+    "forca": 5,
+    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
+  },
+ "visitante": {
+    "nome": "Colômbia",
+    "forca": 4,
+    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/co.webp"
     }
   }
 ]
