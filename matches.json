@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias da Copa 2022",
     "local": {
     "nome": "Maracanã",
-    "imagem": "TODO"
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsepSKzW1msP7PPRshFSAp72o3MRV2P9R1LQ&usqp=CAU"
   },
   "mandante": {
     "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias da Copa 2022",
     "local": {
     "nome": "Estádio Centenário",
-    "imagem": "TODO"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Estadio_Centenario_2021.jpg/270px-Estadio_Centenario_2021.jpg"
   },
   "mandante": {
     "nome": "Uruguai",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias da Copa 2022",
     "local": {
     "nome": "Neo Quimica Arena",
-    "imagem": "TODO"
+    "imagem": "https://static.meutimao.com.br/img/arena-corinthians/arena-corinthians-foto-go-pro.jpg"
   },
   "mandante": {
     "nome": "Brasil",
