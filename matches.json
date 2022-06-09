@@ -1,53 +1,53 @@
 [
   {
-    "descricao": "Eliminatórias da Copa 2022",
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
-    "nome": "Maracanã",
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsepSKzW1msP7PPRshFSAp72o3MRV2P9R1LQ&usqp=CAU"
-  },
-  "mandante": {
-    "nome": "Brasil",
-    "forca": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
-  },
- "visitante": {
-    "nome": "Argentina",
-    "forca": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ar.webp"
+      "nome": "Maracanã",
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+    },
+    "mandante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
-  }
+  },
   {
-    "descricao": "Eliminatórias da Copa 2022",
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
-    "nome": "Estádio Centenário",
-    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Estadio_Centenario_2021.jpg/270px-Estadio_Centenario_2021.jpg"
-  },
-  "mandante": {
-    "nome": "Uruguai",
-    "forca": 4,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp"
-  },
- "visitante": {
-    "nome": "Brasil",
-    "forca": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
+      "nome": "Olympic Stadium Hernando Siles",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
+    },
+    "mandante": {
+      "nome": "Bolívia",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+    },
+    "visitante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
-  }
- {
-    "descricao": "Eliminatórias da Copa 2022",
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
-    "nome": "Neo Quimica Arena",
-    "imagem": "https://static.meutimao.com.br/img/arena-corinthians/arena-corinthians-foto-go-pro.jpg"
-  },
-  "mandante": {
-    "nome": "Brasil",
-    "forca": 5,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp"
-  },
- "visitante": {
-    "nome": "Colômbia",
-    "forca": 4,
-    "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/co.webp"
+      "nome": "Neo Quimica Arena",
+      "imagem": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2020/09/itaquerao-agencia-corinthians.jpg"
+    },
+    "mandante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Colombia",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
   }
 ]
